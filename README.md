@@ -17,4 +17,4 @@ This MS Excel dashboard gives insights about bike sales accross various regions.
 
 ## Screenshot
 
-![App Screenshot](https://drive.google.com/file/d/1dCyLyUSXwloqbKFvrrBvuRiF4aHo9-5x/view?usp=share_link)
+![App Screenshot](https://drive.google.com/file/d/1dCyLyUSXwloqbKFvrrBvuRiF4aHo9-5x)
