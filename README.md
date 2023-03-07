@@ -6,8 +6,8 @@ This MS Excel dashboard gives insights about bike sales accross various regions.
 
 1. Analysing the data
 2. Data Cleaning using functions like nested if's, Proper() etc 
-3. Creating Pivot table to data insights
-4. Enhacing dashbaord to make it interactive& user friendly
+3. Creating dashboard using pivot table & charts
+4. Enhacing dashboard to make it interactive & user friendly
 
 
 ## Tech Stack
