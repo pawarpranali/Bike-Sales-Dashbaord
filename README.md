@@ -1,6 +1,6 @@
 # Bike-Sales-Dashbaord
 
-This MS Excel dashboard gives insights about bike sales accross various regions.
+This MS Excel dashboard gives insights about bike sales across various regions.
 
 ## Steps Covered
 
